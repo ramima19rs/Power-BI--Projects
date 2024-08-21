@@ -23,6 +23,10 @@ This project is focused on analyzing employee attrition within a company to iden
 - **Gender Distribution:** Breakdown of attrition by gender to highlight any disparities.
 - **Tenure Analysis:** Examination of the average number of years employees stay with the company before leaving.
 - **Departmental Affiliation:** Insights into which departments have higher attrition rates.
+## Dashboard
+
+![hr](https://github.com/user-attachments/assets/b851b5ba-d3d6-4c7f-890d-3d1cae809b4f)
+
 
 ## Business Impact
 
