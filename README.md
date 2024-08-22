@@ -45,6 +45,3 @@ The insights from this analysis can help the company:
 
 For any questions or further discussion, feel free to contact me at ramima19rs@gmail.com. You can also connect with me on www.linkedin.com/in/syeda-ramima-rafsana-nadia-5704681b5
 
----
-
-This README file provides a clear overview of the project, the tools used, and the insights gained, making it easy for others to understand and interact with your work.
